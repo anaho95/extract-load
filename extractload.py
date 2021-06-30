@@ -1,5 +1,6 @@
 # Extract and Load Python Program
 # Ana Ho
+# Database server: PostgreSQL
 
 
 # import needed libraries
