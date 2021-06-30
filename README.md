@@ -1,1 +1,1 @@
-# extract-load
+An extract and load program in Python using PostgreSQL. This program will extract two tables (returns and salesperson) from the operations database and then load the data set from the two tables into the python database.  
