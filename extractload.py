@@ -1,3 +1,7 @@
+# Extract and Load Python Program
+# Ana Ho
+
+
 # import needed libraries
 import petl as etl
 import psycopg2 as p
